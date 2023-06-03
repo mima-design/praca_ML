@@ -2,9 +2,7 @@
 .env
 .venv
 
-# Spyder project settings
-.spyderproject
-.spyproject
-
 # data is to big for git
-data
+household_data_1min_singleindex.csv
+household_data_15min_singleindex.csv
+household_data_60min_singleindex.csv
