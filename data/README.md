@@ -1,0 +1,1 @@
+Dane do projektu: "https://data.open-power-system-data.org/household_data/"
